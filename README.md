@@ -2,9 +2,15 @@
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+udah
+
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+udah
+
 ## 3. Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
+udah
 
 ## 4. Mencoba Console Sistem Operasi
 
@@ -27,6 +33,8 @@ Referensi [1](https://scratch.mit.edu/)
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+
+udah
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -94,6 +102,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+udah
+
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
@@ -102,7 +112,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+udah
+
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+udah
 
 ## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -111,6 +125,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+
+udah
 
 ## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -134,7 +150,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+udah
+
 ## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+
+udah
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
