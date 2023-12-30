@@ -2,7 +2,7 @@
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-udah
+https://wordpress.com/post/idhahamidaturrosadi.wordpress.com/24
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
@@ -10,7 +10,7 @@ udah
 
 ## 3. Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/mengaktifkan-dan-mencoba-google-colab-v/
 
 ## 4. Mencoba Console Sistem Operasi
 
@@ -18,30 +18,49 @@ udah
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/mencoba-console-sistem-operasi/
+
 ## 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+github
 
 ## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/membuat-algoritma-dalam-bentuk-flow-chart/
+
 ## 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
 
+
+Gerak Lurus Beraturan menggunakan Scratch : https://scratch.mit.edu/projects/940024968
+![image](https://github.com/idhahamidaturrosadi19/Pa-Insan-UAS1/assets/144808574/437104db-5fd6-4530-9c28-28c63ec84f9a)
+
+
 ## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+
 
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+pengertian vscode (liat di google)
+
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-udah
+ceritakan pas log in hacker rank
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+
 
 ## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
+
+
 
 ## 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
@@ -53,13 +72,22 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
+nyari materi HTML di chrome
+
 ## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
+cari materi URL
+
 ## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+
+whois
+
+<img width="957" alt="image" src="https://github.com/idhahamidaturrosadi19/Pa-Insan-UAS1/assets/144808574/94960b6f-83fd-41b8-94fc-d08dc9f0e080">
+
 
 ## 17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
