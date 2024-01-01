@@ -175,7 +175,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/membangun-profil-github-page-2/
 
 ## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
