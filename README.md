@@ -165,6 +165,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-lowongan-pekerjaan-it/
+
 ## 47. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-lowongan-freelancer-it-upwork-toptal-freelancer-com-2/
