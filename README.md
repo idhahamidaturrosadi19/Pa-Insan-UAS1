@@ -171,6 +171,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/eksplorasi-top-github-project-yang-diminati/
+
 ## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
