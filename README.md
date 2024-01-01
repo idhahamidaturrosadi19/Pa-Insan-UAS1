@@ -139,7 +139,7 @@ udah
 
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mendaftar-dan-mencoba-eksplorasi-kaggle/
 
 ## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
