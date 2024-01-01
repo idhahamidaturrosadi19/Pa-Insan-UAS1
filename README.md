@@ -161,6 +161,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 44. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-tools-untuk-belajar-bahasa-inggris-duolingo/
+
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-tools-untuk-belajar-berbicara-bahasa-inggris-hellotalk-2/
