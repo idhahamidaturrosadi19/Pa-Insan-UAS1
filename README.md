@@ -181,3 +181,5 @@ udah
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika-2/
+
