@@ -173,6 +173,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
+
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/membangun-profil-github-page-2/
