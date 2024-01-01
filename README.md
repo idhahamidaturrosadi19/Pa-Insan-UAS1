@@ -167,6 +167,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 47. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-lowongan-freelancer-it-upwork-toptal-freelancer-com-2/
+
 ## 48. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-dan-pilih-topik-yang-diminati-di-roadmap-sh/
