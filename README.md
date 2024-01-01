@@ -179,7 +179,7 @@ udah
 
 ## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/mengikuti-workshop-event-course-terkait-it-2/
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
