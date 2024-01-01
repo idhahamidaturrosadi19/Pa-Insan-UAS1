@@ -155,6 +155,8 @@ udah
 
 ## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-tugas-akhir-informatika/
+
 ## 43. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## 44. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
