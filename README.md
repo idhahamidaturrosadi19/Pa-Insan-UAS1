@@ -169,6 +169,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 48. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-dan-pilih-topik-yang-diminati-di-roadmap-sh/
+
 ## 49. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 https://idhahamidaturrosadi.wordpress.com/2023/12/31/eksplorasi-top-github-project-yang-diminati/
