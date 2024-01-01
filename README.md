@@ -143,15 +143,23 @@ udah
 
 ## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/mencoba-protokol-komunikasi-iot-mqtt/
+
 ## 38. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+
+
 
 ## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+
+
 ## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-udah
+
 
 ## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
+
 
 ## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
