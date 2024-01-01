@@ -2,19 +2,17 @@
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-https://wordpress.com/post/idhahamidaturrosadi.wordpress.com/24
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/2-menjelaskan-jenis-jenis-mesin-komputasi/
 
 ## 3. Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2023/12/30/mengaktifkan-dan-mencoba-google-colab-v/
 
-## 4. Mencoba Console Sistem Operasi
-
-### Windows CMD [v] ⭐⭐⭐⭐
+## 4. Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
@@ -22,7 +20,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/30/mencoba-console-sistem-oper
 
 ## 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-github
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/linux-terminal-menggunakan-google-colab/
 
 ## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -34,22 +32,19 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/30/membuat-algoritma-dalam-ben
 
 Referensi [1](https://scratch.mit.edu/)
 
-
-Gerak Lurus Beraturan menggunakan Scratch : https://scratch.mit.edu/projects/940024968
-![image](https://github.com/idhahamidaturrosadi19/Pa-Insan-UAS1/assets/144808574/437104db-5fd6-4530-9c28-28c63ec84f9a)
-
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/mencoba-scratch-bahasa-indonesia/
 
 ## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/mencoba-algoritma-bubble-sort-menggunakan-java/
 
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-pengertian vscode (liat di google)
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-dan-mendemonstrasikan-penggunakan-ide/
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-ceritakan pas log in hacker rank
+https://idhahamidaturrosadi.wordpress.com/2023/12/30/mendaftar-mengeksplorasi-dan-mendemonstrasikan-penggunaan-hackerrank/
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
