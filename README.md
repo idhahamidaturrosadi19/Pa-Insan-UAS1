@@ -159,6 +159,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 43. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati/
+
 ## 44. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-tools-untuk-belajar-bahasa-inggris-duolingo/
