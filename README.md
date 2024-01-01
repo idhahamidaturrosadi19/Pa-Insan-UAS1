@@ -163,6 +163,8 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/menonton-video-presentasi-t
 
 ## 45. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-tools-untuk-belajar-berbicara-bahasa-inggris-hellotalk-2/
+
 ## 46. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-lowongan-pekerjaan-it/
