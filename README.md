@@ -92,7 +92,7 @@ Referensi tutorial
 
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
