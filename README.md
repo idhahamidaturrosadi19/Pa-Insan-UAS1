@@ -159,7 +159,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-web-tool-ai-generat
 
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-data-visualization-dengan-tools/
 
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
