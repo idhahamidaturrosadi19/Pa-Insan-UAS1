@@ -135,7 +135,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mendemonstrasikan-akses-kon
 
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-edit-konten-multimedia-image-audio-video/
 
 ## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
