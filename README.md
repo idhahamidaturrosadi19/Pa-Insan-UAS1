@@ -135,7 +135,7 @@ udah
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mendaftar-dan-mencoba-eksplorasi-huggingface/
 
 ## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
