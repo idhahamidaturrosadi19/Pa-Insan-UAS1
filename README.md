@@ -90,47 +90,78 @@ Referensi tutorial
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
+  
+
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+
+
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+
 
 
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+
+
 ## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+
+
 ## 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+
+
 
 ## 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
+
+
 ## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+
+
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+
+
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+
 
 ## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+
+
 ## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
+
 
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+
+
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-udah
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
+
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+
+
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
