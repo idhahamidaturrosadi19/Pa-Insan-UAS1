@@ -110,7 +110,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-penerapan-teknik-se
 
 ## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-http-request-dan-web-api-dengan-hoppscotch-postman/
 
 ## 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
