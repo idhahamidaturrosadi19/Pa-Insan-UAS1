@@ -155,7 +155,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/01/mencoba-protokol-komunikasi
 
 ## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 
 ## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
