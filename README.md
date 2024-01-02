@@ -79,10 +79,7 @@ cari materi URL
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-whois
-
-<img width="957" alt="image" src="https://github.com/idhahamidaturrosadi19/Pa-Insan-UAS1/assets/144808574/94960b6f-83fd-41b8-94fc-d08dc9f0e080">
-
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-pelacakan-informasi-server-dari-alamat-domain/
 
 ## 17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
