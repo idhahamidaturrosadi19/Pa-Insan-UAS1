@@ -48,7 +48,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/30/mendaftar-mengeksplorasi-da
 
 ## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-
+Link github UTS
 
 ## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
