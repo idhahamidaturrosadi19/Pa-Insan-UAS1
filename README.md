@@ -75,7 +75,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/mendemonstrasikan-dan-menje
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-cari materi URL
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mendemonstrasikan-dan-menjelaskan-komponen-dari-contoh-uniform-resource-locator-url/
 
 ## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
