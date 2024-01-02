@@ -159,7 +159,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/01/mencoba-protokol-komunikasi
 
 ## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/01/eksplorasi-artikel-jurnal-conference-di-repository-terekognisi-internasional-ieee-arxiv-science-direct-acm-dblp-v/
 
 ## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
