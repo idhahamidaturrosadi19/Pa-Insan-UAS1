@@ -131,7 +131,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-dan-mendemonstrasik
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mendemonstrasikan-akses-konten-multimedia-image-audio-video/
 
 ## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
