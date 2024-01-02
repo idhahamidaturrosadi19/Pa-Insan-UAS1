@@ -69,7 +69,7 @@ https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-eksplorasi-dan-quer
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-nyari materi HTML di chrome
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mendemonstrasikan-dan-menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
