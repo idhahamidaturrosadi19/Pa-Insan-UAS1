@@ -155,7 +155,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-web-tool-ai-generat
 
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-huggingface/
 
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
