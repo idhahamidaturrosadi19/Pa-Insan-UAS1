@@ -143,7 +143,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-pembuatan-game-dan-
 
 ## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-pemrosesan-konten-multimedia-image-audio-menggunakan-google-colab/
 
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
