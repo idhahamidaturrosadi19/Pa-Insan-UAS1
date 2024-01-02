@@ -139,7 +139,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-edit-konten-multime
 
 ## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo-v/
 
 ## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
