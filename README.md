@@ -102,7 +102,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-pembuatan-file-json
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
