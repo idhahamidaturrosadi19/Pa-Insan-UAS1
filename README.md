@@ -183,7 +183,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/01/mencoba-protokol-komunikasi
 
 ## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab-2/
 
 ## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
