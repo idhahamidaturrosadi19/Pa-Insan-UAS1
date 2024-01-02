@@ -163,7 +163,7 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-data-visualization-
 
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-data-visualization-dengan-code/
 
 ## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
