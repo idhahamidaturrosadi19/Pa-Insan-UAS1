@@ -145,7 +145,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-web-tool-ai-discriminative-image-classification/
 
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
