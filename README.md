@@ -62,6 +62,8 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-eksplorasi-dan-query-database-menggunakan-database-explorer-dbeaver-dsb/
+
 ## 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
