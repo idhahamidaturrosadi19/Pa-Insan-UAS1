@@ -125,7 +125,9 @@ https://idhahamidaturrosadi.wordpress.com/2024/01/02/mengeksplorasi-dan-menjelas
 
 ## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-
+https://idhahamidaturrosadi.wordpress.com/2023/11/29/tips-pola-hidup-sehat/
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-web-tool-ai-discriminative-image-classification/
+https://idhahamidaturrosadi.wordpress.com/2023/12/31/mencoba-dan-mendemonstrasikan-penggunakan-ide/
 
 ## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
