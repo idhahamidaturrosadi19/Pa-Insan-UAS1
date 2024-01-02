@@ -90,7 +90,7 @@ Referensi tutorial
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
-  
+https://idhahamidaturrosadi.wordpress.com/2024/01/02/mencoba-pembuatan-halaman-web-menggunakan-html-css-dan-javascript/
 
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
